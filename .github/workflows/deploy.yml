@@ -52,5 +52,6 @@ jobs:
 
             sudo docker run -d \
             -p 8080:8080 \
+            -e SPRING_PROFILES_ACTIVE=prod \
             --name member-api \
             ${{ secrets.DOCKER_USERNAME }}/member-api:latest
