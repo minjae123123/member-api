@@ -26,3 +26,11 @@
 <img width="1917" height="897" alt="image" src="https://github.com/user-attachments/assets/9f878a1b-a099-47a4-a86f-a4ca4147e3a5" />
 
 
+## Lv4 - Docker & CI/CD 파이프라인 구축 
+- Github Actions 성공 이미지
+<img width="1690" height="848" alt="image" src="https://github.com/user-attachments/assets/900c170e-f012-428f-8443-a83ddf5d84d7" />
+
+
+- EC2 터미널 이미지(sudo docker ps)
+<img width="948" height="157" alt="image" src="https://github.com/user-attachments/assets/0ea2247d-98ba-4e28-b2aa-4d9bb8f275c4" />
+
