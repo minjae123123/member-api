@@ -1,0 +1,33 @@
+spring:
+  config:
+    import: optional:aws-parameterstore:/config/member-api/prod/
+
+  cloud:
+    aws:
+      region:
+        static: ap-northeast-2
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: health,info
+
+  info:
+    env:
+      enabled: true
+
+info:
+  team-name: ${team.name:4조}
+
+cloud:
+  aws:
+    s3:
+      bucket: member-api-profile-images-cmj011112
+    region:
+      static: ap-northeast-2
