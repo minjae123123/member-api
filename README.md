@@ -35,7 +35,7 @@
 <img width="948" height="157" alt="image" src="https://github.com/user-attachments/assets/0ea2247d-98ba-4e28-b2aa-4d9bb8f275c4" />
 
 
-##Lv5 -  고가용성 아키텍처와 보안 도메인 연결 (ALB + ASG + HTTPS) 
+## Lv5 -  고가용성 아키텍처와 보안 도메인 연결 (ALB + ASG + HTTPS) 
 - HTTPS 적용된 도메인 URL(https://minjae-member-api.click/actuator/health)
 <img width="1912" height="972" alt="image" src="https://github.com/user-attachments/assets/1d36cc20-5b60-4f82-a3d2-1c9298dac853" />
 
@@ -43,4 +43,7 @@
 <img width="1918" height="961" alt="image" src="https://github.com/user-attachments/assets/b5b00930-adf0-4492-a2ae-f72056e3fb78" />
 
 
+## Lv6. 글로벌 성능 최적화 (CloudFront CDN)
+- CloudFront 이미지 URL
+<img width="1915" height="970" alt="image" src="https://github.com/user-attachments/assets/9ebc5bde-e2b7-406a-9318-bca3bd453f34" />
 
