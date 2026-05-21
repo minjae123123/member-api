@@ -1,6 +1,8 @@
 # cloud-backend
 
 ## Lv0. AWS Budget 설정
+- AWS Budgets 설정
+  - 예산은 100$, 예산의 80% 달성 시 이메일이 오도록 설정했습니다.
 <img width="1918" height="900" alt="image" src="https://github.com/user-attachments/assets/040ada07-5252-4086-8bbb-40722fee4035" />
 
 ## LV 1 - 네트워크 구축 및 핵심 기능 배포
@@ -20,7 +22,8 @@
 ## Lv 2 - DB 분리 및 보안 연결하기
 
 - Actuator Info 엔드포인트 URL
-<img width="1918" height="1008" alt="image" src="https://github.com/user-attachments/assets/9461467a-6bad-4f00-8261-5604907529d9" />
+<img width="1725" height="857" alt="image" src="https://github.com/user-attachments/assets/3d030782-dd37-4a31-a79a-95c0886837b3" />
+
 
 - RDS 보안 그룹 스크린샷
 <img width="1917" height="897" alt="image" src="https://github.com/user-attachments/assets/9f878a1b-a099-47a4-a86f-a4ca4147e3a5" />
